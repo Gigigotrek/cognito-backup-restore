@@ -36,9 +36,6 @@
     "cbr": "./build/cli/cli.js",
     "cognito-backup-restore": "./build/cli/cli.js"
   },
-  "files": [
-    "build"
-  ],
   "devDependencies": {
     "@types/inquirer": "^0.0.42",
     "@types/ora": "^1.3.4",
